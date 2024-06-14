@@ -10,7 +10,7 @@ Ordem, do melhor para o pior: Haar Cascade, CNN, Filtros de correlação cruzada
 
 Haar Cascade: O método Haar Cascade é mais fácil de implementar e entrega bons resultados em termos técnicos. Além disso, é mais versátil de ser utilizado em imagens com diferentes iluminações.
 
-CNN: O método CNN funciona bem para a detecção de faces devido à sua capacidade de identificar características específicas nas imagens. Mas, devido a dificuldade de implememntação, se torna menos versátil.
+CNN: O método CNN funciona bem para a detecção de faces devido à sua capacidade de identificar características específicas nas imagens. Mas, devido a dificuldade de implementação, se torna menos versátil.
 
 Filtros de correlação cruzada: Os filtros de correlação cruzada podem ser utilizados para a detecção, mas são menos viáveis porque dependem da iluminação da imagem.
 
@@ -50,7 +50,7 @@ Primeiro é necesário clonar o repositório, para isso, acesse o terminal do se
 
    ```bash
    git clone https://github.com/gabriellemitoso793/prova2-modulo6-engcomp.git
-   cd prova2-modulo-engcomp
+   cd prova2-modulo6-engcomp
    ```
 2. **Crie um ambiente virtual**:
     ```bash

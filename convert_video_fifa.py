@@ -1,8 +1,6 @@
 import cv2
 import os
 
-print(cv2.__version__)
-
 video_path = "/home/gabriellemitoso/Documents/prova2-modulo6-engcomp/la_cabra.mp4"
 
 # checa se o arquivo existe
